@@ -11,4 +11,10 @@ public class FirstClass {
         System.out.println("hello git!!!!");
         System.out.println("hello git!!!!");
     }
+
+    public void add() {
+
+        int i = 1;
+        i = i + 1;
+    }
 }
